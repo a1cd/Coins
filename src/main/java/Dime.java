@@ -1,3 +1,8 @@
+/**
+ * A dime
+ * @version 4/31/2022
+ * @author 24wilber
+ */
 public class Dime extends Coin {
     @Override
     public double getValue() {
